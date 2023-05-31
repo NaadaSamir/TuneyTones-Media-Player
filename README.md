@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>TuneyTones Media Player</title>
-</head>
 <body>
   <h1>Welcome to my music player TuneyTones</h1>
     <img src="app.PNG" alt="">
