@@ -1,0 +1,14 @@
+tkinter
+filedialog
+gtts
+pygame.mixer
+os
+librosa
+random
+customtkinter
+numpy
+pydub
+matplotlib.pyplot
+soundfile
+time
+scipy.signal
