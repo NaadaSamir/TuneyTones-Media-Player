@@ -5,6 +5,7 @@
 </head>
 <body>
   <h1>Welcome to my music player TuneyTones</h1>
+    <img src="app.PNG" alt="">
   <h2>The functions in TuneyTones</h2>
   <ul>
     <li>Stop</li>
